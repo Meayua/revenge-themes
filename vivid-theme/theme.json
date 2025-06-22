@@ -12,7 +12,8 @@
     "HEADER_PRIMARY": ["#EFDFD7", "#E7D6CE", "#A07D6C"]
   },
   "rawColors": {
-    "BRAND_360": "#CE13EB"
+    "BRAND_360": "#CE13EB",
+    "BLACK_500": "transparent"
   },
   "background": {
     "blur": 0.6,
