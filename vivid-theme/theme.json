@@ -10,6 +10,7 @@
   "spec": 2,
   "semanticColors": {
     "BG_BACKDROP": "transparent"
+    "REDESIGN_CHAT_INPUT_BACKGROUND": "#1613EB"
   },
   "rawColors": {
     "BRAND_360": "#CE13EB",
