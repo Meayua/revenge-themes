@@ -143,6 +143,10 @@
       "url": "",
       "alpha": 0.9,
       "color": "#00000"
-  
     },
+
+    "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy"
+    }
 }
