@@ -1,10 +1,10 @@
 {
-  "name": "Lavender Heaven",
-  "description": "A theme made by Vodka",
+  "name": "vivid/theme",
+  "description": "Idk what i am doing",
   "authors": [
     {
-      "name": "Vodka Martini",
-      "id": "1068030255455015013"
+      "name": "@meayua",
+      "id": "1168750438695321732"
     }
   ],
   "spec": 2,
@@ -16,7 +16,7 @@
   },
   "background": {
     "blur": 0.6,
-    "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1099189661995380897/82ef73f876a5ef467a8263b694e4f0b8.jpg",
+    "url": "https://raw.githubusercontent.com/Meayua/revenge-themes/refs/heads/main/vivid-theme/Background.png",
     "alpha": 0.4
   }
 } 
