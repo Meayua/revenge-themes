@@ -9,7 +9,6 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "BG_BACKDROP": "transparent",
     "REDESIGN_CHAT_INPUT_BACKGROUND": "#1613EB"
   },
   "rawColors": {
@@ -17,7 +16,7 @@
     "BLACK_500": "transparent"
   },
   "background": {
-    "blur": 0.6,
+    "blur": 0.8,
     "url": "https://raw.githubusercontent.com/Meayua/revenge-themes/refs/heads/main/vivid-theme/Background.png",
     "alpha": 0.4
   }
