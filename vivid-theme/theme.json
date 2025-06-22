@@ -9,7 +9,7 @@
   ],
   "spec": 2,
   "semanticColors": {
-
+    "HEADER_PRIMARY": ["#EFDFD7", "#E7D6CE", "#A07D6C"]
   },
   "rawColors": {
     "BRAND_360": "#CE13EB",
